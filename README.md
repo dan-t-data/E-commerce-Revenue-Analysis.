@@ -51,9 +51,11 @@ Data model combining Order, Customers, Geo_Lookup, and Order_Status for analysis
 
 
 ---
-## Data Visuals
-
-
+## Dashboard Visuals
+<img width="784" height="519" alt="image" src="https://github.com/user-attachments/assets/f5cac2c4-79e5-4f78-b6db-e2610ab6a43c" />
+<img width="612" height="511" alt="image" src="https://github.com/user-attachments/assets/651f0cdb-05a2-45c5-bdc3-49232d7dda16" />
+<img width="1333" height="565" alt="image" src="https://github.com/user-attachments/assets/095139ae-2be8-43fc-8af8-32dd00aeca38" />
+<img width="1770" height="580" alt="image" src="https://github.com/user-attachments/assets/31b7f6a1-d4dd-4386-bfed-07628f87faec" />
 ---
 
 ## Recommendations  
