@@ -21,7 +21,7 @@ To address this, the company must answer two critical questions:
 ---
 ## Schema Diagram
 Data model combining Order, Customers, Geo_Lookup, and Order_Status for analysis.
-<img width="520" height="314" alt="schema diagram" src="https://github.com/user-attachments/assets/80aa7b69-8371-4f79-8579-f6642ea1ed1d" />
+<img width="520" height="314" alt="schema diagram" src="https://github.com/user-attachments/assets/c81cb5bf-7870-4ce6-b6ac-89aac6fdc0ca" />
 
 ---
 ## Methodology & Skills  
@@ -52,11 +52,7 @@ Data model combining Order, Customers, Geo_Lookup, and Order_Status for analysis
 
 ---
 ## Data Visuals
-<img width="781" height="531" alt="image" src="https://github.com/user-attachments/assets/4c58e047-e396-4a29-8992-49dbdd7d4ad4" />
-<img width="859" height="569" alt="image" src="https://github.com/user-attachments/assets/2975a737-3686-44f7-a584-f7f3d3bf300c" />
-<img width="703" height="585" alt="image" src="https://github.com/user-attachments/assets/a1ed0a36-1e16-486a-ae9d-b4e2d20802fd" />
-<img width="975" height="413" alt="image" src="https://github.com/user-attachments/assets/a6a106d1-c962-4cbb-9181-7870ed0d07cd" />
-<img width="975" height="319" alt="image" src="https://github.com/user-attachments/assets/11f50caf-c44d-4d60-91d7-8586bccbdd2e" />
+
 
 ---
 
